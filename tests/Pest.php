@@ -1,0 +1,5 @@
+<?php
+
+use Bregananta\ClosureTable\Tests\TestCase;
+
+uses(TestCase::class)->in(__DIR__);
